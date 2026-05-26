@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Kepler-129 spin-orbit angle schematic</title>
+  <desc id="desc">Stylized orbital architecture diagram showing a large spin-orbit angle for the Kepler-129 system.</desc>
+  <rect width="600" height="520" fill="#ffffff"/>
+  <text x="300" y="52" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="36" font-style="italic" font-weight="700" fill="#111111">
+    Spin-orbit angle &gt; 40 deg
+  </text>
+
+  <ellipse cx="250" cy="345" rx="255" ry="42" transform="rotate(-11 250 345)" fill="none" stroke="#111111" stroke-width="3"/>
+  <ellipse cx="258" cy="338" rx="255" ry="42" transform="rotate(-11 258 338)" fill="none" stroke="#000000" stroke-opacity="0.18" stroke-width="2"/>
+
+  <ellipse cx="255" cy="302" rx="88" ry="28" transform="rotate(-61 255 302)" fill="none" stroke="#1aa5aa" stroke-width="5"/>
+  <ellipse cx="284" cy="316" rx="78" ry="24" transform="rotate(-61 284 316)" fill="none" stroke="#1aa5aa" stroke-width="4" stroke-opacity="0.92"/>
+  <circle cx="316" cy="310" r="9" fill="#18aeb4"/>
+  <circle cx="338" cy="333" r="10" fill="#18aeb4"/>
+
+  <circle cx="256" cy="272" r="18" fill="#ffd883" stroke="#f59c7e" stroke-width="6" stroke-opacity="0.55"/>
+
+  <path d="M256 272 L256 128" stroke="#ff4f2f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M244 142 L256 118 L268 142" fill="#ff4f2f"/>
+  <path d="M279 263 L375 106" stroke="#121212" stroke-width="5" stroke-linecap="round"/>
+  <path d="M364 120 L384 94 L389 125" fill="#121212"/>
+  <path d="M256 272 L367 198" stroke="#1aa5aa" stroke-width="5" stroke-linecap="round"/>
+  <path d="M354 194 L381 190 L366 213" fill="#1aa5aa"/>
+
+  <path d="M304 161 C347 159 390 176 410 207" fill="none" stroke="#15a6aa" stroke-width="5" stroke-dasharray="10 10" stroke-linecap="round"/>
+  <path d="M410 207 C386 224 352 224 323 210" fill="none" stroke="#15a6aa" stroke-width="5" stroke-dasharray="10 10" stroke-linecap="round"/>
+
+  <circle cx="360" cy="158" r="15" fill="#1aa5aa"/>
+  <circle cx="360" cy="158" r="13" fill="#ffd46c"/>
+
+  <circle cx="463" cy="377" r="22" fill="#d9d9dd" stroke="#b7b7bc" stroke-width="2"/>
+
+  <text x="38" y="414" font-family="Georgia, Times New Roman, serif" font-size="22" font-weight="700" fill="#111111">Kepler-129 b and c:</text>
+  <text x="38" y="444" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">both transiting</text>
+  <text x="38" y="470" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">P_b ~ 15 d</text>
+  <text x="38" y="495" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">r_b = 2.5 R_Earth</text>
+
+  <text x="238" y="478" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">P_c ~ 82 d</text>
+  <text x="238" y="503" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">r_c = 2.5 R_Earth</text>
+
+  <text x="400" y="222" font-family="Georgia, Times New Roman, serif" font-size="24" font-weight="700" fill="#111111">Kepler-129 d</text>
+  <text x="400" y="252" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">P_d = 8.5 +/- 0.4 yr</text>
+  <text x="400" y="278" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">e_d = 0.07 +/- 0.04</text>
+  <text x="400" y="304" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#111111">m sin i_d = 9.4 M_Jup</text>
+</svg>
